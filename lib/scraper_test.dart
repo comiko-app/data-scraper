@@ -27,40 +27,58 @@ class Event {
 Future<Null> scrapeShows() async {
   var client = new Client();
 
-  var response = await client
-      .get('http://diffusion.saguenay.ca/programmation/humour_varietes/');
+  var allEvents = [];
 
-  var body = response.body;
-  var parsedBody = parse(body);
+  int pageId = 1;
+  bool hasContent = true;
+  while (hasContent) {
+    var response = await client.get(
+        'http://diffusion.saguenay.ca/programmation/humour_varietes/page/$pageId');
 
-  var events = parsedBody
-      .querySelectorAll("ul.event-grid > li.event")
-      .map((Element eventElement) {
-    var imageUrl = eventElement.querySelector('img').attributes['src'];
+    if (response.statusCode == 404) {
+      hasContent = false;
+      continue;
+    } else {
+      pageId++;
+    }
 
-    var date =
-        eventElement.querySelector('.wrap-time > time').attributes['datetime'];
-    var time = eventElement.querySelector('.wrap-time > time > .time').text;
+    var body = response.body;
+    var parsedBody = parse(body);
 
-    var location = eventElement.querySelector('.location').text;
+    var events = parsedBody
+        .querySelectorAll("ul.event-grid > li.event")
+        .map((Element eventElement) {
+      var imageUrl = eventElement.querySelector('img').attributes['src'];
 
-    var name = eventElement
-        .querySelector('.main-block > h2 > a')
-        .text
-        .replaceAll('\n', '')
-        .replaceAll('\t', '');
+      var date = eventElement
+          .querySelector('.wrap-time > time')
+          .attributes['datetime'];
+      var time = eventElement.querySelector('.wrap-time > time > .time').text;
 
-    var event = new Event()
-      ..name = name
-      ..imgUrl = imageUrl
-      ..date = date
-      ..time = time
-      ..location = location;
+      var location = eventElement.querySelector('.location').text;
 
-    return event;
-  }).toList();
+      var name = eventElement
+          .querySelector('.main-block > h2 > a')
+          .text
+          .replaceAll('\n', '')
+          .replaceAll('\t', '');
+
+      var event = new Event()
+        ..name = name
+        ..imgUrl = imageUrl
+        ..date = date
+        ..time = time
+        ..location = location;
+
+      return event;
+    });
+
+    allEvents.addAll(events);
+  }
 
   var out = new File('out.json');
+  const jsonEncoder = const JsonEncoder.withIndent('    ');
+  out.writeAsStringSync(jsonEncoder.convert(allEvents));
 
-  out.writeAsStringSync(JSON.encode(events));
+  print('Scraping done!');
 }
