@@ -34,12 +34,14 @@ class EventDetails {
   String price;
   String priceType;
   String buyLink;
+  String name;
   String description;
 
   Map toJson() => {
         'price': price,
         'priceType': priceType,
         'buyLink': buyLink,
+        'name': name,
         'description': description,
       };
 }
@@ -78,11 +80,14 @@ Future<EventDetails> scrapeEventDetails(String eventUrl) async {
       .querySelector('.event-details > article > .inner-description')
       .text);
 
+  var name = parsedBody.querySelector('section > .inner-summary > h1').text;
+
   return new EventDetails()
     ..price = price
     ..priceType = priceType
     ..buyLink = buyLink
-    ..description = description;
+    ..description = description
+    ..name = name;
 }
 
 Future<Null> scrapeShows() async {
@@ -122,16 +127,13 @@ Future<Null> scrapeShows() async {
 
       var location = eventElement.querySelector('.location').text;
 
-      var name = trimWhitespace(
-          eventElement.querySelector('.main-block > h2 > a').text);
-
       var detailsPageUrl =
           eventElement.querySelector('.main-block > h2 > a').attributes['href'];
 
       var details = await scrapeEventDetails(detailsPageUrl);
 
       var event = new Event()
-        ..name = name
+        ..name = details.name
         ..imgUrl = imageUrl
         ..date = date
         ..time = time
