@@ -1,12 +1,9 @@
-// Copyright (c) 2017, joel. All rights reserved. Use of this source code
-// is governed by a BSD-style license that can be found in the LICENSE file.
-
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
-import 'package:http/http.dart';
+
 import 'package:html/parser.dart';
-import 'utils.dart';
+import 'package:http/http.dart';
 
 Duration throttleDuration = const Duration(milliseconds: 1);
 
@@ -46,57 +43,13 @@ class EventDetails {
       };
 }
 
-Future<EventDetails> scrapeEventDetails(String eventUrl) async {
-  print('Scraping $eventUrl');
-
-  var client = new Client();
-  var response = await client.get(eventUrl);
-
-  if (response.statusCode == 508) {
-    print('Reached limit on $eventUrl');
-    return null;
-  }
-
-  var body = response.body;
-
-  client.close();
-
-  var parsedBody = parse(body);
-
-  var querySelector =
-      parsedBody.querySelector('.price > ul > li > span.number');
-
-  var price = trimWhitespace(querySelector.text);
-
-  var priceTypeElement =
-      parsedBody.querySelector('.price > ul > li > span.price-label');
-  var priceType =
-      priceTypeElement != null ? trimWhitespace(priceTypeElement.text) : null;
-
-  var buyLink =
-      parsedBody.querySelector('.purchase-button > a').attributes['href'];
-
-  var description = trimWhitespace(parsedBody
-      .querySelector('.event-details > article > .inner-description')
-      .text);
-
-  var name = parsedBody.querySelector('section > .inner-summary > h1').text;
-
-  return new EventDetails()
-    ..price = price
-    ..priceType = priceType
-    ..buyLink = buyLink
-    ..description = description
-    ..name = name;
-}
-
 Future<Null> scrapeShows() async {
   var client = new Client();
-
   var allEvents = [];
 
   int pageId = 1;
   bool hasContent = true;
+
   while (hasContent) {
     print('Scraping page $pageId');
     await new Future.delayed(throttleDuration);
@@ -130,7 +83,7 @@ Future<Null> scrapeShows() async {
       var detailsPageUrl =
           eventElement.querySelector('.main-block > h2 > a').attributes['href'];
 
-      var details = await scrapeEventDetails(detailsPageUrl);
+      var details = await _scrapeEventDetails(client, detailsPageUrl);
 
       var event = new Event()
         ..name = details.name
@@ -147,9 +100,50 @@ Future<Null> scrapeShows() async {
 
   client.close();
 
-  var out = new File('out.json');
+  var out = new File('events.json');
   const jsonEncoder = const JsonEncoder.withIndent('    ');
   out.writeAsStringSync(jsonEncoder.convert(allEvents));
 
   print('Scraping done!');
+}
+
+Future<EventDetails> _scrapeEventDetails(Client client, String eventUrl) async {
+  print('Scraping $eventUrl');
+
+  var response = await client.get(eventUrl);
+
+  if (response.statusCode == 508) {
+    print('Reached limit on $eventUrl');
+    return null;
+  }
+
+  var body = response.body;
+  var parsedBody = parse(body);
+
+  var querySelector =
+      parsedBody.querySelector('.price > ul > li > span.number');
+
+  var price = querySelector.text.trim();
+
+  var priceTypeElement =
+      parsedBody.querySelector('.price > ul > li > span.price-label');
+  var priceType =
+      priceTypeElement != null ? priceTypeElement.text.trim() : null;
+
+  var buyLink =
+      parsedBody.querySelector('.purchase-button > a').attributes['href'];
+
+  var description = parsedBody
+      .querySelector('.event-details > article > .inner-description')
+      .text
+      .trim();
+
+  var name = parsedBody.querySelector('section > .inner-summary > h1').text;
+
+  return new EventDetails()
+    ..price = price
+    ..priceType = priceType
+    ..buyLink = buyLink
+    ..description = description
+    ..name = name;
 }
