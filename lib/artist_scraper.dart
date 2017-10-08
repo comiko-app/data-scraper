@@ -4,9 +4,8 @@ import 'dart:io';
 
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
-import 'package:scraper_poc/utils.dart';
 
-Duration throttleDuration = const Duration(milliseconds: 500);
+Duration throttleDuration = const Duration(milliseconds: 1);
 
 class Artist {
   String imgUrl;
@@ -15,6 +14,8 @@ class Artist {
   String website;
   String facebook;
   String twitter;
+  String youtube;
+  String bio;
 
   Map toJson() => {
         'imgUrl': imgUrl,
@@ -23,6 +24,8 @@ class Artist {
         'website': website,
         'facebook': facebook,
         'twitter': twitter,
+        'youtube': youtube,
+        'bio': bio,
       };
 }
 
@@ -30,7 +33,22 @@ Future scrapeArtistDetails(String artistUrl, Artist artist) async {
   print('Scraping $artistUrl');
 
   var client = new Client();
-  var response = await client.get(artistUrl);
+  var response;
+  var retryCount = 0;
+
+  while(response == null && retryCount < 3) {
+    try {
+      response = await client.get(artistUrl);
+    }
+    catch (e) {
+      print(e);
+      retryCount++;
+
+      if (retryCount >= 3) {
+        rethrow;
+      }
+    }
+  }
 
   var body = response.body;
 
@@ -38,8 +56,7 @@ Future scrapeArtistDetails(String artistUrl, Artist artist) async {
 
   var parsedBody = parse(body);
 
-  var links =
-      parsedBody.querySelectorAll('#informationArtiste > a').toList();
+  var links = parsedBody.querySelectorAll('#informationArtiste > a').toList();
 
   for (var link in links) {
     var url = link.attributes['href'];
@@ -47,40 +64,19 @@ Future scrapeArtistDetails(String artistUrl, Artist artist) async {
 
     if (url.contains("facebook")) {
       artist.facebook = url;
-    }
-    else if (url.contains("twitter")) {
+    } else if (url.contains("twitter")) {
       artist.twitter = url;
-    }
-    else if (url.contains("youtube")) {
-      //Don't keep youtube for now
-    }
-    else {
+    } else if (url.contains("youtube")) {
+      artist.youtube = url;
+    } else {
       artist.website = url;
     }
   }
 
-  /*var price = trimWhitespace(querySelector.text);
+  var bio = parsedBody.querySelector('#bio');
+  artist.bio = bio.text.trim().replaceAll("", "'");
 
-  var priceTypeElement =
-      parsedBody.querySelector('.price > ul > li > span.price-label');
-  var priceType =
-      priceTypeElement != null ? trimWhitespace(priceTypeElement.text) : null;
-
-  var buyLink =
-      parsedBody.querySelector('.purchase-button > a').attributes['href'];
-
-  var description = trimWhitespace(parsedBody
-      .querySelector('.event-details > article > .inner-description')
-      .text);
-
-  var name = parsedBody.querySelector('section > .inner-summary > h1').text;
-
-  return new EventDetails()
-    ..price = price
-    ..priceType = priceType
-    ..buyLink = buyLink
-    ..description = description
-    ..name = name;*/
+  print(artist.bio);
 }
 
 Future<Null> scrapeArtists() async {
@@ -125,7 +121,7 @@ Future<Null> scrapeArtists() async {
       print(pageUrl);
 
       var artist = new Artist()
-        ..name = trimWhitespace(name)
+        ..name = name.trim()
         ..imgUrl = imageUrl
         ..pageUrl = pageUrl;
 
