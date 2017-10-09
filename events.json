@@ -1,0 +1,737 @@
+[
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/02/messmer.jpg",
+        "date": "2017-10-11",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Messmer",
+        "details_url": "http://diffusion.saguenay.ca/evenement/messmer/",
+        "details": {
+            "price": "53,00",
+            "priceType": "Régulier",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201710112000",
+            "name": "Messmer",
+            "description": "Le fascinateur Messmer est l’une des grandes références en hypnose et magnétisme à travers le monde. Détenteur du record mondial d’hypnose collective et avec plus d’un million de billets vendus à son actif, Messmer est de retour au Québec pour y présenter en primeur son tout nouveau spectacle, Hypersensoriel. Sommité dans l’art de la fascination, Messmer repousse à nouveau les limites du subconscient, en mettant cette fois à profit nos cinq sens. Quels sont leurs secrets, leurs pouvoirs insoupçonnés? Peut-on les décupler, les altérer? Et si nous avions un 6e sens qui sommeille en nous? Après plusieurs années à étudier le cerveau humain pour amplifier ses propriétés, Messmer vous invite cette fois à stimuler et éveiller vos sens à travers des expériences et des aventures des plus étonnantes et divertissantes. Hypersensoriel propose un grand rendez-vous interactif et euphorique, mettant à profit technologie et réalité virtuelle, alors que Messmer fait une fois de plus la démonstration de l’incroyable pouvoir du subconscient."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/05/guillaume-wagner-350x300.jpg",
+        "date": "2017-10-13",
+        "time": "20:00",
+        "location": "Au Vieux Théâtre",
+        "name": "Guillaume Wagner",
+        "details_url": "http://diffusion.saguenay.ca/evenement/guillaume-wagner-2/",
+        "details": {
+            "price": "35,00",
+            "priceType": "Section bleue et verte",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050003&DateHeure=201710132000",
+            "name": "Guillaume Wagner",
+            "description": "Malgré son jeune âge, il compte à son actif deux tournées, plus de 100 000 billets vendus, des révélations aux festivals Juste Pour Rire et Grand Rire, un Olivier « découverte » ainsi que de nombreuses prestations lors d’événements télévisés.\nSon humour est souvent incisif, sans toutefois compromettre l’idée et la réflexion qui s’y cachent. Chaque numéro est réfléchi afin que le public s’amuse tout en stimulant son sens critique. Dans ce spectacle, Guillaume vous proposera du matériel inédit qu’il compose depuis les derniers mois : l’actualité et le plaisir seront de mise !\n(sièges réservés)"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/11/claudine-mercier-350x300.jpg",
+        "date": "2017-10-13",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Claudine Mercier",
+        "details_url": "http://diffusion.saguenay.ca/evenement/claudine-mercier/",
+        "details": {
+            "price": "52,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201710132000",
+            "name": "Claudine Mercier",
+            "description": "Claudine Mercier est de retour sur scène avec son 5e spectacle !\nL’humoriste Claudine Mercier est de retour sur scène ! Après la crise de la liberté d’expression et celle de la liberté journalistique, Claudine vient défendre la liberté 55 ! Car c’est en toute liberté qu’elle revient, avec ce cinquième one-woman-show, faire rire le public avec des thèmes qui lui sont chers. L’environnement, la politique, la chirurgie, le terrorisme, le féminisme, les technologies, l’éducation, la quête du bonheur… autant de sujets qu’elle abordera à travers ses stand-ups, personnages et savoureuses imitations. Après 25 ans de carrière et plus de 750 000 billets vendus, Claudine Mercier est une valeur sûre dans le monde de l’humour, témoignant d’un souci constant de se renouveler. Voilà pourquoi on l’aime tant et depuis si longtemps !"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/11/ral-bland-350x300.jpg",
+        "date": "2017-10-26",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Réal Béland",
+        "details_url": "http://diffusion.saguenay.ca/evenement/real-beland/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201710262000",
+            "name": "Réal Béland",
+            "description": "Dans son 4e one-man-show, Réal nous parlera entre autre et toujours avec le même humour absurde qu’on lui connait, de ses nombreuses superstitions, du vieillissement de ses quatre filles et de l’arrivée des « chums », de l’évolution des réseaux sociaux et aussi de tous les clichés trop souvent utilisés à toutes les sauces\nSon inimitable et imbattable Monsieur Latreille sera de retour, son Président de la Fédération des Stickers d’Avertissement nous avertira plus que jamais, et dans un numéro physique et surprenant Réal fera un hommage au burlesque.\n Ce 4e spectacle sera encore plus personnel, plus humain !!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/02/louis-t-350x300.jpg",
+        "date": "2017-10-27",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Louis T",
+        "details_url": "http://diffusion.saguenay.ca/evenement/louis-t-2/",
+        "details": {
+            "price": "25,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201710272000",
+            "name": "Louis T",
+            "description": "Faire rire et réfléchir, voici l’audacieux pari qu’a choisi Louis T pour ce premier spectacle.  À mi-chemin entre un journaliste et un humoriste, Louis T assume son humour documenté, tenant autant à l’exactitude de ses propos qu’à leur efficacité comique.  Désirant sortir du modèle habituel où l’humoriste part en tournée pendant 2 ou 3 ans, Louis propose ce spectacle ancré sur l’actualité dans une formule à édition limitée.   Objectivement Parlant sera présenté un peu partout au Québec de janvier à mai 2017 mais pour 20 dates seulement.  Il compte d’ailleurs refaire la même chose en 2018 avec du nouveau matériel."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/les-grandes-crues-350x300.jpg",
+        "date": "2017-10-28",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Les Grandes Crues",
+        "details_url": "http://diffusion.saguenay.ca/evenement/les-grandes-crues/",
+        "details": {
+            "price": "25,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201710282000",
+            "name": "Les Grandes Crues",
+            "description": "« Les Grandes Crues », c’est Eve Côté et Marie-Lyne Joncas, toute deux finissantes de l’École nationale de l’humour, cuvée 2014.\n Elles viendront charmer un large public grâce à leur verve, leur sens de la répartie et leur façon bien à elles de dépeindre la société actuelle.\n Pourquoi les Grandes Crues? Parce qu’elles sont comme un bon millésime; parfois corsées, mais bien dosées, et assurément pas bouchonnées! Sur scène, les deux jeunes humoristes nous parlent de leur recette du bonheur avec une désinvolture et une dégaine des plus charmantes. C’est autour d’un bon verre de vin qu’elles vous invitent à vivre un 5 à 7 signé Grandes Crues.\n Leur devise: « La vie c’est deux choses : Accepter qui on est et… un bon verre de muscadet. »"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/marianna-mazza-350x300.jpg",
+        "date": "2017-11-16",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Mariana Mazza",
+        "details_url": "http://diffusion.saguenay.ca/evenement/mariana-mazza-2/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201711152000",
+            "name": "Mariana Mazza",
+            "description": "Femme ta gueule… Une phrase qu’on lui dit souvent, mais qu’elle n’a jamais écoutée (parlez-en à sa famille, ses voisins, au commis du dépanneur… Tous soulagés qu’elle parte en tournée!). Avec sa fougue de prépubère en pleine métamorphose, l’énergie d’un pitbull sur le Redbull et son franc-parler de fille pas baptisée (c’est le curé qui a refusé), l’humoriste Mariana Mazza se livre au public comme s’il n’y avait aucun lendemain. Et malheureusement, il y en a un. Femme ta gueule, un spectacle intense et criant de vérité pour un public averti… 16 ans et plus, idéalement en bas de 88.\n « On ne nait pas femme, on le devient. » – Simone de Beauvoir\n« Je ne sais pas si je le suis devenue, mais j’ai le goût d’en parler… » – Mariana Mazza"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/jean-michel-anctil-350x300.jpg",
+        "date": "2017-11-17",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Jean-Michel Anctil",
+        "details_url": "http://diffusion.saguenay.ca/evenement/jean-michel-anctil-2/",
+        "details": {
+            "price": "55,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050001&DateHeure=201711172000",
+            "name": "Jean-Michel Anctil",
+            "description": "Le spectacle aborde la notion de changements sous plusieurs aspects.  Ceux  imposés par le fait de vieillir, de s’entraîner, de modifier ses habitudes. Ceux que l’on fait pour soi, mais qui ne sont pas toujours heureux pour les autres.  Les changements que l’on apporte à notre environnement, comme les rénovations, ou encore la démonstration qu’un petit imprévu survenu à un certain moment entraîne des changements insoupçonnés!   Il sera également question d’idéalisation et de recherche de perfection… Philosophe Jean-Michel?  Peut-être, mais assurément toujours aussi drôle!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/les-morissette-350x300.jpg",
+        "date": "2017-11-18",
+        "time": "16:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Les Morissette",
+        "details_url": "http://diffusion.saguenay.ca/evenement/les-morissette-2/",
+        "details": {
+            "price": "57,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201711181600",
+            "name": "Les Morissette",
+            "description": "PRODUCTIONS KOSCÈNE est fier de présenter LES MORISSETTE, un spectacle humoristique réunissant pour la première fois sur scène VERONIQUE CLOUTIER et LOUIS MORISSETTE. À travers des numéros de stand-up, des imitations et des numéros de variété, le couple explorera ensemble des sujets qui touchent tous les couples québécois dont la conciliation travail-famille, l’amitié à l’aube de la quarantaine, la dépendance aux réseaux sociaux, la matantisation du Québec, le sexe et bien d’autres thèmes.\nLES MORISSETTE débarquent sur une scène près de chez vous!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/simon-leblanc-350x300.jpg",
+        "date": "2017-11-23",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Simon Leblanc",
+        "details_url": "http://diffusion.saguenay.ca/evenement/simon-leblanc-3/",
+        "details": {
+            "price": "35,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201711232000",
+            "name": "Simon Leblanc",
+            "description": "Simon Leblanc présente Tout court, son premier one man show. Un spectacle qui met en vedette l’humoriste sans aucun artifice. Pas de décor, pas de musique, pas de mise en scène et pas d’entracte (encore chanceux que Simon monte sur scène habillé)! Mais pourquoi couper dans la guirlande? Pour que le rire et les histoires déjantées puissent prendre toute la place dans votre imagination. Tout court : une heure et demie de plaisir ininterrompu qui vous paraîtra comme 15 minutes!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/pierre-hbert-350x300.jpg",
+        "date": "2017-11-24",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Pierre Hébert (supplémentaire)",
+        "details_url": "http://diffusion.saguenay.ca/evenement/pierre-hebert-supplementaire/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSalleSpectacle=0500O8&CodeSiteClient=00000R",
+            "name": "Pierre Hébert (supplémentaire)",
+            "description": "Un matin, Pierre Hébert s’est réveillé avec la peur de devenir le spectateur de sa propre vie en s’installant dans le confort et la stabilité. C’est ce jour-là qu’il a décidé de cultiver Le goût du risque. Dans ce deuxième spectacle d’une mordante ironie, il tourne ses propres peurs en dérision afin de se convaincre lui-même de sauter dans le vide! D’une désopilante sincérité, il s’inspire de ce que son quotidien a de risible et d’absurde pour donner aux spectateurs l’envie de sortir de la routine, de faire des choix audacieux. Prendrez-vous le risque de tomber sous son charme?"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/alexandre-barrette-350x300.jpg",
+        "date": "2017-12-08",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Alexandre Barrette",
+        "details_url": "http://diffusion.saguenay.ca/evenement/alexandre-barrette-copie/",
+        "details": {
+            "price": "38,50",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeRepresentation=050228&CodeSiteClient=00000R",
+            "name": "Alexandre Barrette",
+            "description": "Alexandre Barrette est quelqu’un d’assez indécis, très attachant et solidement drôle ! Dans IMPARFAIT, il aborde, avec le naturel qu’on lui connaît, une multitude de sujets, sous un angle très personnel et sans autocensure. On le connaît comme un excellent animateur de télévision (Gémeaux – Taxi Payant), mais ce qu’il affectionne plus que tout demeure la scène et c’est pourquoi il a lancé avec euphorie son deuxième spectacle solo en janvier 2016, un an seulement après la fin de son premier, présenté 200 fois entre 2012 et 2014 devant plus de 100 000 spectateurs !\nSeul auteur de ses textes, il n’hésite pas à proposer un spectacle où il ose rire de ses traits de personnalité et des failles de sa vie imparfaite. Ses propos pertinents et authentiques de même que son talent d’orateur comique évident lui attirent les meilleures critiques partout au Québec et le confirment comme un humoriste adoré du public."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/adib-alkhalidey-1-350x300.jpg",
+        "date": "2017-12-15",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Adib Alkhalidey",
+        "details_url": "http://diffusion.saguenay.ca/evenement/adib-alkhalidey/",
+        "details": {
+            "price": "33,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201712152000",
+            "name": "Adib Alkhalidey",
+            "description": "Dès sa sortie de l’École Nationale de l’Humour, Adib Alkhalidey travaille autant sur scène que dans les coulisses à titre d’auteur. Il enchaîne un projet après l’autre, puis, en 2013, après avoir été encensé par la critique, il parcourt la province du Québec pour y présenter son tout premier one-man show, Je t’aime. Après le succès de ce premier spectacle solo, il nous revient cette année, en force, avec son deuxième spectacle intitulé Ingénu.\n Ingénu(e): Adj. Candide, naïf, sans malice"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/guy-nantel-350x300.jpg",
+        "date": "2018-01-18",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Guy Nantel",
+        "details_url": "http://diffusion.saguenay.ca/evenement/guy-nantel/",
+        "details": {
+            "price": "44,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201801182000",
+            "name": "Guy Nantel",
+            "description": "L’humoriste social politique numéro un au Québec mise une fois de plus sur un style d’humour périlleux, alors qu’il vacille entre l’ironie et la vérité crue, amenant le public à réfléchir, mais surtout à rire.\nLa justesse de ses propos et leur actualité font de Nos droits et libertés un spectacle incontournable qui présente une satire sur les travers de notre société. Dans un monde où nos droits et libertés sont plus souvent qu’autrement sujets à interprétation, Nantel ne pourrait être davantage dans l’ère du temps! Qu’il s’agisse de questions liées à la liberté religieuse, de politique, de souveraineté, de droit à la vérité de la part des élus, d’immigration, de droits sociaux, de liberté d’expression, d’égalité des sexes, du prix à payer pour penser librement en 2016; Nantel remet tout en question, il provoque, déconstruit les certitudes et dit tout haut ce que plusieurs pensent en silence. Retrouvez le au sommet de sa forme, avec son humour incisif et ironique, alors qu’il s’exprime dans la plus grande liberté!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/04/jf-mercier-350x300.jpg",
+        "date": "2018-01-20",
+        "time": "20:00",
+        "location": "Au Vieux Théâtre",
+        "name": "Jean-François Mercier",
+        "details_url": "http://diffusion.saguenay.ca/evenement/jean-francois-mercier/",
+        "details": {
+            "price": "42,00",
+            "priceType": "Section bleue et verte",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050003&DateHeure=201801202000",
+            "name": "Jean-François Mercier",
+            "description": "Son style inimitable et son humour à la fois acerbe et sensible ont permis à Jean-François Mercier de gagner le cœur du public. Ainsi, Le show du gros cave, son premier one-man-show, a attiré plus de 100 000 spectateurs au terme d’une tournée l’ayant mené aux quatre coins du Québec. En 2009, il remporte un Olivier pour son numéro « Le conte de Noël » présenté à Juste pour rire. À l’été 2010, le Festival le mandate pour animer un premier gala aux côtés de Louis Morissette. En 2011, c’est en solo qu’il relève le défi avec Le party à Mercier. Cette même année, après une brève incursion en politique fédérale, le public lui décernait l’ultime consécration en l’élisant Humoriste de l’année au Gala Les Olivier 2011. Depuis l’automne 2014, Jean-François Mercier parcourt les scènes de la province avec un second spectacle : Mercier : Subtil, sensible, touchant. Il participe en outre tous les ans aux deux grands festivals d’humour de Montréal et de Québec."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/julien-et-medhi-350x300.jpg",
+        "date": "2018-01-26",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Mehdi Bousaidan et Julien Lacroix",
+        "details_url": "http://diffusion.saguenay.ca/evenement/mehdi-bousaidan-julien-lacroix/",
+        "details": {
+            "price": "25,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201801262000",
+            "name": "Mehdi Bousaidan et Julien Lacroix",
+            "description": "Rencontre au sommet !\nJulien est un humoriste à la fois naïf, charmant, attachant, à l’humour grinçant, noir et satirique. Un humoriste en noir et rose.\nMehdi explore les limites des zones interdites, un côté cinglant enrobé d’une étoffe sympathique, ce qui le rend très attachant. Son charisme et son intelligence vous séduiront."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/phil-roy-monsieur-350x300.jpg",
+        "date": "2018-01-26",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Phil Roy",
+        "details_url": "http://diffusion.saguenay.ca/evenement/phil-roy-3/",
+        "details": {
+            "price": "35,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201801262000",
+            "name": "Phil Roy",
+            "description": "La question ultime que se fait poser le plus souvent Phil Roy : quand te découvrira-t-on sur scène? Enfin, il peut répondre qu’il planche présentement sur son premier spectacle solo très attendu. Il est plus qu’heureux de se lancer dans cette aventure périlleuse, mais ô combien énergisante! \n  \n Sur scène, Phil Roy se dévoile sous toutes ses facettes. Son premier spectacle solo sera pour lui l’occasion de présenter au public sa vision du monde avec un soupçon d’immaturité. Plusieurs se reconnaîtront en lui et s’apercevront rapidement que c’est comme s’ils assistaient au spectacle d’un ami de longue date."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/lni-en-tourne-350x300.jpg",
+        "date": "2018-01-31",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "LNI – Place à l’improvisation!",
+        "details_url": "http://diffusion.saguenay.ca/evenement/lni-place-a-limprovisation/",
+        "details": {
+            "price": "25,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201801312000",
+            "name": "LNI – Place à l’improvisation!",
+            "description": "Vous souhaitez rejoindre le public habitué aux matchs de la LNI ou vous désirez attirer les friands d’improvisation de votre milieu ou, tout simplement, permettre à une nouvelle génération de découvrir les joies et les fous rires provoqués par les professionnels de l’improvisation? La LNI en tournée est pour vous!\nFrançois-Étienne Paré et ses comparses de la LNI ont imaginé différents scénarios pour faire voyager le concept développé par les deux bonzes de l’improvisation qu’étaient Yvon Leduc et Robert Gravel, lesquels ont pavé la voie à plusieurs générations d’improvisateurs.\nPeu importe la déclinaison que vous choisirez mais, avec assurément la présence de\n quatre joueurs étoiles, un animateur-arbitre qui punit et commente le match et un musicien qui entraîne la foule dans une ambiance survoltée, vous retrouverez le plaisir contagieux de l’improvisation!\nDans la patinoire officielle de la LNI, des pros de l’improvisation s’affronteront. Sur les thèmes proposés par l’animateur-arbitre, ils devront se dépasser, en mixtes comme en comparées. En changeant de personnages et d’univers, ils vont impressionner impro après impro, autant qu’ils nous feront voyager dans des mondes imaginaires. Avec la LNIen tournée, attendez-vous à de la haute voltige!\nConception et mise en scène : les Éditions Gravel-Leduc – SACD\n Direction artistique : François-Étienne Paré\n Animateur-arbitre : Nicolas Pinson\nAvec quelques uns des meilleurs improvisateurs du Québec parmi les suivants : Réal Bossé, Laurent Paquin, Salomé Corbo, Pier-Luc Funk, Sophie Caron, Frédéric Barbusci, Virginie Fortin, Simon Boudreault et François-Étienne Paré"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/pierre-hbert-350x300.jpg",
+        "date": "2018-02-02",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Pierre Hébert (supplémentaire)",
+        "details_url": "http://diffusion.saguenay.ca/evenement/pierre-hebert-supplementaire-2/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSalleSpectacle=0500O8&CodeSiteClient=00000R",
+            "name": "Pierre Hébert (supplémentaire)",
+            "description": "Un matin, Pierre Hébert s’est réveillé avec la peur de devenir le spectateur de sa propre vie en s’installant dans le confort et la stabilité. C’est ce jour-là qu’il a décidé de cultiver Le goût du risque. Dans ce deuxième spectacle d’une mordante ironie, il tourne ses propres peurs en dérision afin de se convaincre lui-même de sauter dans le vide! D’une désopilante sincérité, il s’inspire de ce que son quotidien a de risible et d’absurde pour donner aux spectateurs l’envie de sortir de la routine, de faire des choix audacieux. Prendrez-vous le risque de tomber sous son charme?"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/laurent-paquin-350x300.jpg",
+        "date": "2018-02-08",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Laurent Paquin",
+        "details_url": "http://diffusion.saguenay.ca/evenement/laurent-paquin/",
+        "details": {
+            "price": "46,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050001&DateHeure=201802082000",
+            "name": "Laurent Paquin",
+            "description": "Déplaire, le nouveau show de Laurent Paquin : un show plus franc, plus vrai, plus simple, plus cru, dans lequel Laurent assume pleinement l’idée qu’on ne peut pas plaire à tout le monde. Son style est épuré, plus près des racines du stand-up, et son ton est résolument plus mordant, tout en restant rassembleur.\nCe 4ième spectacle s’ajoute à une feuille de route déjà fort chargée. Son dernier spectacle, L’ereure est humaine, a dépassé les 150 000 billets vendus. La popularité de Laurent Paquin ne se dément pas, et après 21 ans de carrière, il n’a pas pris une ride. Son style non plus… bien au contraire!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/dominic-paquet-350x300.jpg",
+        "date": "2018-02-17",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Dominic Paquet",
+        "details_url": "http://diffusion.saguenay.ca/evenement/dominic-paquet/",
+        "details": {
+            "price": "46,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050001&DateHeure=201802172000",
+            "name": "Dominic Paquet",
+            "description": "Dominic Paquet est de retour Rien qu’s’une gosse! Alors que nous vivons tous à un rythme effréné, Dominic lui s’arrête, contemple et note nos travers pour mieux les exagérer. Avec son imagination si particulière, ses métamorphoses comiques et un univers bien à lui, il déploie son grand talent en se démarquant avec ses interprétations aux mimiques grandioses. C’est souvent son corps désarticulé qui s’exprime, s’étire et se contracte, venant ainsi appuyer ses textes bien ficelés pour incarner des archétypes auxquels le public prend plaisir à s’identifier… ou pas! Est-ce un enfant? Un ado attardé? Un adulte? Un idiot fini ou un génie?\n\n Peu importe, car son énergie explosive, combinée à une performance scénique qui sort de l’ordinaire, font de Rien qu’s’une gosse un spectacle totalement hilarant. Avec ce troisième one-man-show, Paquet fait pleurer de rire le public avec son humour accessible à tous. Un abruti à l’énergie débordante qui sait dilater des rates comme personne!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/09/les-denis-drolet.jpg",
+        "date": "2018-02-22",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Les Denis Drolet",
+        "details_url": "http://diffusion.saguenay.ca/evenement/les-denis-drolet/",
+        "details": {
+            "price": "38,50",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201802222000",
+            "name": "Les Denis Drolet",
+            "description": "Les Denis Drolet sont de retour sur scène avec un nouveau spectacle original – en rodage-, audacieux et complètement délirant. Pour ce quatrième spectacle, le duo adopte le stand-up  afin d’augmenter leur proximité avec le public. Embarquez pleinement dans le monde disjoncté et coloré des Denis Drolet, vous ne voudrez plus jamais quitter leur univers!\nGagnants de trois Olivier et d’un Félix pour le Spectacle humour de l’année, les Denis Drolet sont passés maitres dans l’art de faire n’importe quoi, mais pas n’importe comment."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/peter-mcleod-350x300.jpg",
+        "date": "2018-02-23",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Peter MacLeod",
+        "details_url": "http://diffusion.saguenay.ca/evenement/peter-macleod/",
+        "details": {
+            "price": "47,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201802232000",
+            "name": "Peter MacLeod",
+            "description": "La liberté transpire dans sa vie, sur la scène et dans son rire bien à lui. Mais, la liberté a-t-elle ses limites ?  A-t-elle un prix ?  Le libre choix existe-t-il vraiment ? Bref, si la liberté c’est la possibilité de pouvoir agir selon sa propre volonté, Peter MacLeod a une volonté propre d’y arriver ! Avec son nouveau spectacle, Libre, le populaire humoriste expose sa vision de la liberté, pertinente et toujours hilarante. Libre de pensée, il n’y a aucun tabou pour Peter. Il passera donc au tordeur tous les sujets, s’attardant au passage sur le sexe, l’argent et la vérité… Bref, tout ce qui fait tourner le monde d’aujourd’hui! Incontournable en humour, aussi touchant que percutant, il n’a rien perdu de sa fougue et de son charme légendaire. Peter a très hâte de retrouver son public pour rire avec lui en toute liberté!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/09/francois-bellefeuille-350x300.jpg",
+        "date": "2018-03-02",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "François Bellefeuille",
+        "details_url": "http://diffusion.saguenay.ca/evenement/francois-bellefeuille-3/",
+        "details": {
+            "price": "46,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSalleSpectacle=0500IF&CodeSiteClient=00000R",
+            "name": "François Bellefeuille",
+            "description": "Encore étourdi par le succès de sa première tournée pour laquelle il a vendu plus de 300 000 billets, François Bellefeuille est de retour sur scène avec un nouveau one man show. Vous découvrirez un spectacle plus personnel, d’un humoriste plus assumé, plus mature mais avec la même folie sur scène.\nSi vous avez apprécié son premier spectacle, ne manquez surtout pas son deuxième."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/franois-massicotte-350x300.jpg",
+        "date": "2018-03-03",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "François Massicotte",
+        "details_url": "http://diffusion.saguenay.ca/evenement/francois-massicotte/",
+        "details": {
+            "price": "38,50",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201803032000",
+            "name": "François Massicotte",
+            "description": "Avec son sens du timing unique, François aborde des thèmes unificateurs, à travers lesquels tous se reconnaissent, tel la famille, le couple, la parentalité, la vieillesse et plus encore, avec humour et dérision. À travers ses aventures et histoires savoureuses, ce père de cinq enfants nous entraîne dans le tourbillon de la famille moderne avec son énergie scénique contagieuse! Doté d’un talent naturel, François s’assume, s’anime et nous transporte dans le tourbillonnement fou de la vie contemporaine. Quelle famille!, un regard humoristique percutant sur les différentes formes que peut prendre la famille de nos jours.\nQuelle famille!, pour se reconnaître et en rire!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/03/dominic-et-martin-350x300.jpg",
+        "date": "2018-03-08",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Dominic et Martin",
+        "details_url": "http://diffusion.saguenay.ca/evenement/dominic-et-martin-3/",
+        "details": {
+            "price": "39,50",
+            "priceType": "Régulier",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201803082000",
+            "name": "Dominic et Martin",
+            "description": "Dominic Sillon et Martin Cloutier sont d’incontestables amoureux de la scène. Depuis près de 25 ans, ils redéfinissent sans cesse l’humour à deux. Dans ce cinquième spectacle, le duo se présente sans artifices, en misant simplement sur ce qui a fait son succès : un irréprochable sens du punch et un rythme quasi chirurgical, qui déclenchent l’hilarité à tout coup. Avec Juste Dominic et Martin, les humoristes chevronnés repoussent les limites de leur essence en exploitant à fond leur chimie naturelle et leur folie contagieuse. Une ode au stand up qui vise juste… en aspirant juste à vous faire rire!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/06/martin-perrizolo-350x300.jpg",
+        "date": "2018-03-09",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Martin Perizzolo",
+        "details_url": "http://diffusion.saguenay.ca/evenement/martin-perizzolo-2/",
+        "details": {
+            "price": "38,50",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201803092000",
+            "name": "Martin Perizzolo",
+            "description": "Martin Perizzolo est drôle et passé maître dans l’art du pince-sans-rire. Il réfléchit avec nous, sur scène, à des choses parfois brillantes, souvent stupides, mais toujours avec le même aplomb. Aucun sujet de prédilection, sinon les relations et réactions humaines. Il agrémente ses textes adroitement ficelés de gags improvisés et de montées de lait injustifiées qui ne font que le rendre unique et plus attachant.\n Vous connaissez son visage comme Benoît dans la campagne publicitaire Les Fromages d’ici ; Poudy dans l’Gros show ; Jean-François dans Les beaux malaises. Vous connaissez son humour à travers des textes d’émissions de télé comme, en autre, Un gars, Une fille. Il est grand temps de le découvrir sur scène."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/silvie-tourigny-et-daniel-grenier-350x300.jpg",
+        "date": "2018-03-22",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Silvi Tourigny et Daniel Grenier",
+        "details_url": "http://diffusion.saguenay.ca/evenement/silvi-tourigny-daniel-grenier/",
+        "details": {
+            "price": "25,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201803222000",
+            "name": "Silvi Tourigny et Daniel Grenier",
+            "description": "Plongez dans l’univers déjanté des humoristes Daniel Grenier et Silvi Tourigny! Unissant leurs pouvoirs le temps d’un spectacle, Daniel et Silvi proposeront chacun du matériel solo, en plus de vous réserver quelques duos surprenants!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/simon-leblanc-350x300.jpg",
+        "date": "2018-03-23",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Simon Leblanc",
+        "details_url": "http://diffusion.saguenay.ca/evenement/simon-leblanc-4/",
+        "details": {
+            "price": "35,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201803232000",
+            "name": "Simon Leblanc",
+            "description": "NOUVEAU SPECTACLE\nSimon Leblanc n’a pas encore terminé la tournée de son premier spectacle qu’il est déjà sur le point de présenter le second… Au diable les conventions!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/louis-jos-houde-350x300.jpg",
+        "date": "2018-03-28",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Louis-José Houde",
+        "details_url": "http://diffusion.saguenay.ca/evenement/louis-jose-houde/",
+        "details": {
+            "price": "55,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201803282000",
+            "name": "Louis-José Houde",
+            "description": "Louis-José Houde est de retour sur scène. Reconnu notamment pour la précision de ses textes et son timing parfait, Louis-José est passé maître de son art, porté par un style inimitable, une verve intelligente et une énergie scénique fascinante. Son enthousiasme contagieux a attiré à ce jour plus d’un million de personnes en salle."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/fabien-cloutier-350x300.jpg",
+        "date": "2018-03-30",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Fabien Cloutier",
+        "details_url": "http://diffusion.saguenay.ca/evenement/fabien-cloutier-2/",
+        "details": {
+            "price": "35,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201803302000",
+            "name": "Fabien Cloutier",
+            "description": "Après les mémorables Scotstown et Cranbourne, Fabien Cloutier met de côté le personnage du « chum à Chabot » et prend la scène en son nom.  Dans son premier one-man-show intitulé Assume, Fabien Cloutier pourfend la bêtise, chasse les petites manies du Québec contemporain et n’épargne personne.  Les politiciens, les décorateurs de maisons et autres fabricants d’opinions passeront dans le tordeur.  C’est assurément drôle, mais c’est avant tout une charge contre la stupidité et un nécessaire brassage collectif auquel cette soirée nous convie.  Venez assister à ce spectacle rempli d’honnêteté où vous assumerez, à coup de fous rires, les travers de la société québécoise."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/yves-p-pelletier-350x300.jpg",
+        "date": "2018-03-31",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Yves P. Pelletier",
+        "details_url": "http://diffusion.saguenay.ca/evenement/yves-p-pelletier/",
+        "details": {
+            "price": "44,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201803312000",
+            "name": "Yves P. Pelletier",
+            "description": "Pour la première fois de sa carrière, Yves P. Pelletier monte seul sur scène. Il nous entraîne dans la folie de ses personnages (M. Caron, l’extraterrestre Stromgol, le lecteur de nouvelles pour les sourds, etc… ) mais aussi dans la sienne. À travers des sketches et des histoires personnelles, vous découvrirez des aspects insoupçonnés de son univers. Âmes sensibles, ne vous abstenez pas!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/jrmy-demay-350x300.jpg",
+        "date": "2018-04-05",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Jérémy Demay",
+        "details_url": "http://diffusion.saguenay.ca/evenement/jeremy-demaun/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201804052000",
+            "name": "Jérémy Demay",
+            "description": "Après avoir parcouru le Québec et présenté son premier one man show devant plus de 90 000 spectateurs, Jérémy Demay est de retour avec son tout nouveau spectacle : VIVANT.\nToujours avec l’humour débridé et touchant pour lequel on le connait, ce spectacle est une réelle célébration de la vie : il traite de nos choix, de qui nous sommes, de nos émotions, de notre image, de la vieillesse, du sexe et même de la mort. Il nous partage ainsi avec humour plusieurs aspects qui font que l’être humain se sent vivant.\nC’est avec fébrilité et excitation que Jérémy  prépare de nouvelles anecdotes pour continuer à transmettre avec humour et sincérité son goût du bonheur : un véritable hymne à la vie!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/les-fantastix-1-350x300.jpg",
+        "date": "2018-04-07",
+        "time": "19:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Les FantastiX",
+        "details_url": "http://diffusion.saguenay.ca/evenement/les-fantastix-copie/",
+        "details": {
+            "price": "44,00",
+            "priceType": "Régulier",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201804071900",
+            "name": "Les FantastiX",
+            "description": "Entrez dans l’univers fantaisiste de Les FantastiX, où cinq prestidigitateurs aux multiples talents fusionnent sur scène magie, illusion, mentalisme, hypnose et cirque dans un grand spectacle qui transcende les limites de l’imaginaire! Inexplicable et mystérieuse, cette méga production interactive réunit sur scène des artistes internationaux mélangeant tous les genres pour proposer aux spectateurs une expérience unique et révolutionnaire. Ces super-héros modernes, tout droit arrivés de l’an 2082, sont de retour à notre époque pour accomplir une mission capitale: nous démontrer toutes les capacités insoupçonnées du cerveau humain…. C’est en réalisant des défis stupéfiants qu’ils vont tenter d’atteindre leur objectif… Les producteurs de Messmer nous reviennent avec un spectacle événement qui promet de surprendre, d’éblouir et de divertir le public au plus haut point par son histoire captivante, mais surtout par une fusion fascinante des forces magiques, du jamais vu sur scène. Les FantastiX, la comédie magicale qui vous renversera!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/05/mado-350x300.jpg",
+        "date": "2018-04-07",
+        "time": "20:00",
+        "location": "Au Vieux Théâtre",
+        "name": "Mado et ses Girls",
+        "details_url": "http://diffusion.saguenay.ca/evenement/mado-et-ses-girls/",
+        "details": {
+            "price": "38,00",
+            "priceType": "régulier",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050003&DateHeure=201804072000",
+            "name": "Mado et ses Girls",
+            "description": "Mado débarque « enfin » au Saguenay  avec ses chums de filles.  La plus célèbre drag queen du Québec présente un spectacle de variétés haut en couleurs où la folie, la comédie, l’extravagance et l’humour « bicth » sont au rendez-vous.\nUn spectacle unique en son genre à ne pas manquer.\n(admission générale – places assises)"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/09/martin-matte-350x300.jpg",
+        "date": "2018-04-11",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Martin Matte",
+        "details_url": "http://diffusion.saguenay.ca/evenement/martin-matte/",
+        "details": {
+            "price": "65,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSalleSpectacle=0500US&CodeSiteClient=00000R",
+            "name": "Martin Matte",
+            "description": "Après sept ans d’absence sur scène, Martin Matte est enfin de retour avec un troisième spectacle solo. Intitulé Eh la la..! — le ton est donné — ce nouveau one-man-show voit le populaire humoriste revenir en force et en très grande forme. Toujours provocateur, mais non moins chaleureux et humain, l’auteur aguerri de la légendaire série Les beaux malaises réserve des émotions de toutes les couleurs. Fin observateur de ce qui l’entoure, il signe les textes avec le fidèle François Avard, bénéficiant aussi de la complicité du public alors qu’il rodait le contenu dans quelques villes québécoises. Place maintenant aux toutes nouvelles histoires du seul et unique Martin Matte, chroniques savoureuses de son époque, dans lesquelles un public toujours plus vaste se reconnaît immanquablement."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/julien-tremblay-2-350x300.jpg",
+        "date": "2018-04-14",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "Julien Tremblay",
+        "details_url": "http://diffusion.saguenay.ca/evenement/julien-tremblay-2/",
+        "details": {
+            "price": "34,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201804142000",
+            "name": "Julien Tremblay",
+            "description": "Les six passages de Julien Tremblay aux galas du Festival Juste pour rire lui ont valu, l’été dernier, une ovation spontanée à chaque fois! Il s’est vu remettre le prix Victor Révélation. Aucun doute, Julien Tremblay est un humoriste à surveiller. Il manie admirablement la guitare. Son humour trouve écho dès qu’il pose le pied sur une scène. Il sait improviser, animer et jouer la comédie. Julien Tremblay est un artiste multidisciplinaire qui peaufine son art depuis plusieurs années et est assurément prêt pour un premier spectacle solo. Il le dit d’emblée, « Je suis humoriste de profession et musicien dans l’âme » avec une dégaine particulièrement hilarante. La table est mise pour découvrir son fameux personnage à la guitare qui fait mouche à tout coup. Julien Tremblay possède un sens du rythme doublé d’une solide expérience. Une formule gagnante que le public pourra enfin découvrir sur scène en 2016 partout à travers le Québec."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/saloon-350x300.jpg",
+        "date": "2018-04-29",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Cirque Éloize – Saloon",
+        "details_url": "http://diffusion.saguenay.ca/evenement/cirque-eloize-saloon/",
+        "details": {
+            "price": "48,00",
+            "priceType": "Régulier",
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201804292000",
+            "name": "Cirque Éloize – Saloon",
+            "description": "Pour cette nouvelle création, Cirque Éloize s’inspire du riche héritage du Far West. Imaginez.  L’Amérique  est  en  pleine  construction.  Le  chemin de  fer  se  développe.  Une  ville  s’anime,  le Saloon ouvre ses portes. Lieu de rassemblement et de rencontres, le Saloon devient théâtre de toutes les histoires.Dans Saloon du  Cirque  Éloize,  l’énergie  contagieuse  de  la  musique  folk donne le  ton  à  une  comédie acrobatique qui entraîne les spectateurs dans une course folle.En  se  laissant  charmer  par  la  belle de Saloon, l’amoureux déclenche  une  poursuite  digne  des  grands westerns. Une  série  de  situations  des  plus  loufoques  s’ensuit  au  rythme  des  prouesses  acrobatiques  et des  chorégraphies  originales.Les  tourtereaux  en  déroute  sèment  l’émoi  partout sur  leur  passage;  des plaines désertiques aux profondeurs des mines, jusqu’à l’ultime duel acrobatique.Passer  les  portes  de Saloon c’est  accepter  de  se  retrouver  dans  une  ambiance mythique  portée  par  la musique live et la cadence exaltée de spectaculaires performances.La magie des voix et de l’instrumental en  direct  insuffle  un  côté  épique  et traditionnel  grâce  aux musiques  intemporelles  de  Johnny  Cash  et Pasty Cline. Laissez-vous emporter par les performances vocales et les harmonies rassembleuses dans un spectacle au rythme effréné.Au cours des 24 dernières années, Cirque Éloize a parcouru la planète entière avec ses 11 spectacles et ses centaines d’événements. Quelques 3 millions de spectateurs dans une cinquantaine de pays ont été charmés  par  l’originalité,  l’intimité,  l’énergie  et  la  poésie  des  créations  du  Cirque  Éloize.  Aux  Îles  de  la Madeleine, « éloize » est un mot de patois acadien qui signifie « éclair de chaleur», il constitue l’essence même de l’esprit du Cirque Éloize : chaleur et énergie"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/marianna-mazza-350x300.jpg",
+        "date": "2018-05-02",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Mariana Mazza",
+        "details_url": "http://diffusion.saguenay.ca/evenement/mariana-mazza-3/",
+        "details": {
+            "price": "44,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201805022000",
+            "name": "Mariana Mazza",
+            "description": "Femme ta gueule… Une phrase qu’on lui dit souvent, mais qu’elle n’a jamais écoutée (parlez-en à sa famille, ses voisins, au commis du dépanneur… Tous soulagés qu’elle parte en tournée!). Avec sa fougue de prépubère en pleine métamorphose, l’énergie d’un pitbull sur le Redbull et son franc-parler de fille pas baptisée (c’est le curé qui a refusé), l’humoriste Mariana Mazza se livre au public comme s’il n’y avait aucun lendemain. Et malheureusement, il y en a un. Femme ta gueule, un spectacle intense et criant de vérité pour un public averti… 16 ans et plus, idéalement en bas de 88.\n « On ne nait pas femme, on le devient. » – Simone de Beauvoir\n« Je ne sais pas si je le suis devenue, mais j’ai le goût d’en parler… » – Mariana Mazza"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2016/05/michel-barrette-350x300.jpg",
+        "date": "2018-05-04",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Michel Barrette",
+        "details_url": "http://diffusion.saguenay.ca/evenement/michel-barrette-2/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201805042000",
+            "name": "Michel Barrette",
+            "description": "Avec près de 75 000 billets vendus de la tournée Faut j’te raconte, Michel Barrette est maintenant de retour avec un tout nouveau spectacle. Le raconteur préféré des Québécois vous promet une soirée tout en humour et en complicité. Découvrez ou redécouvrez un Michel spontané, coloré et toujours aussi chaleureux."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/tourne-jpr-350x300.jpg",
+        "date": "2018-05-05",
+        "time": "20:00",
+        "location": "Salle Pierrette-Gaudreault",
+        "name": "La tournée Juste pour rire",
+        "details_url": "http://diffusion.saguenay.ca/evenement/la-tournee-juste-pour-rire/",
+        "details": {
+            "price": "30,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050006&DateHeure=201805052000",
+            "name": "La tournée Juste pour rire",
+            "description": "Après plus de 10 ans d’absence, la Tournée Juste pour rire est de retour sur les planches afin de dévoiler au public les futures stars de l’humour! Voici l’occasion de découvrir quatre humoristes qui seront certainement à surveiller dans les prochaines années. Plongez dans les univers uniques de Didier Lambert, Yannick de Martino, Neev et Mélanie Ghanimé, tous aussi comiques les uns que les autres. Avec une mise en scène de Sébastien Dubé (Les Denis Drolet), la nouvelle mouture de la Tournée Juste pour rire est définitivement un incontournable à ne pas manquer!"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/alain-choquette-2-350x300.jpg",
+        "date": "2018-05-11",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Alain Choquette",
+        "details_url": "http://diffusion.saguenay.ca/evenement/alain-choquette/",
+        "details": {
+            "price": "38,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201805112000",
+            "name": "Alain Choquette",
+            "description": "De retour au Québec après 500 représentations en France, Alain Choquette nous livrera son show enjoué et dynamique. Ce diable d’homme lance plusieurs défis au public, tout en racontant, avec une tendre nostalgie, comment il est devenu magicien. Quelques prédictions, des tours de cartes déroutants, des expériences interactives surprenantes, la magie d’Alain Choquette est inventive, pleine de subtilité et irrésistiblement drôle. On repart avec un sourire accroché aux lèvres, séduit, ému."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/lemire-verville.jpg",
+        "date": "2018-05-12",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Lemire – Verville",
+        "details_url": "http://diffusion.saguenay.ca/evenement/lemire-verville/",
+        "details": {
+            "price": "55,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201805122000",
+            "name": "Lemire – Verville",
+            "description": "Après plus de trente ans d’amitié, Daniel Lemire et Pierre Verville ont décidé de remonter ensemble sur scène pour vous présenter un tout nouveau spectacle. Avec un humour débridé et des dialogues improbables, Daniel Lemire et ses personnages iront à la rencontre des célébrités incarnées par Pierre Verville. Un duo de choc…qui vous réserve bien des surprises."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/anthony-kavanagh-350x300.jpg",
+        "date": "2018-05-31",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Anthony Kavanagh",
+        "details_url": "http://diffusion.saguenay.ca/evenement/anthony-kavanagh/",
+        "details": {
+            "price": "49,50",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201805312000",
+            "name": "Anthony Kavanagh",
+            "description": "SHOWMAN c’est plus que drôle. C’est un hommage à la vie, un spectacle rempli d’espoir et d’énergie positive !  \nAnthony Kavanagh partage, de façon décalée et très drôle, sa vision du plus beau show de l’univers : la vie ! Il la voit comme un jeu et nous en dévoile les règles…enfin, plutôt SES règles : un mode d’emploi pour « être humain » ! \nDans ce nouvel opus, l’humoriste nous laisse découvrir ses différents visages ; ceux que vous connaissez : le fou imprévisible, le comédien, le chanteur, le bruiteur, et ceux que vous connaissez moins : le petit garçon curieux, le papa, et surtout, l’homme."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/joel-legendre-nouvelle-image-350x300.jpg",
+        "date": "2018-06-01",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Joël Legendre",
+        "details_url": "http://diffusion.saguenay.ca/evenement/joel-legendre/",
+        "details": {
+            "price": "42,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201806012000",
+            "name": "Joël Legendre",
+            "description": "Un one-man show de variété hautement divertissant!\nAprès avoir relevé avec brio à l’été dernier son spectacle dans le cadre de Zoofest ainsi que le Show 100% inimitable qui a rassemblé des milliers de personnes sur la scène extérieure du dernier festival Juste pour rire, voilà que Joël Legendre se lance dans un tout nouveau défi : un spectacle solo de variété intitulé SHOWTIME ! Drôle, rythmé, sympathique et avec une touche de sensibilité, ce spectacle  unique mettra en lumière tout le savoir-faire de cet artiste multi-talentueux. Imitation, chant, danse, humour, comédie musicale et même doublage ; tout y passera ! 30 ans de carrière, six Bye Bye, des dizaines de comédies musicales et d’émissions télévisées, une multitude de prix et de récompenses et une seule envie : s’amuser sur scène !"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/03/katerine-levac-350x300.jpg",
+        "date": "2018-06-09",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Katerine Levac",
+        "details_url": "http://diffusion.saguenay.ca/evenement/katerine-levac/",
+        "details": {
+            "price": "39,50",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201806082000",
+            "name": "Katerine Levac",
+            "description": "Aussi attachante et pince sans rire sur scène qu’à la télé, Katherine Levac dévoile de nouvelles facettes de sa personnalité dans ce premier spectacle solo fort attendu. Avec une couleur qui lui est propre, la jeune humoriste partage ses réflexions sur sa vie de jeune adulte avec toute la spontanéité et l’authenticité qu’on lui connait. Alliant naïveté et candeur, franchise et mordant, on peut dire que Katherine Levac est véritablement une main de fer dans un gant de velours."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/luc-langevin-350x300.jpg",
+        "date": "2018-11-09",
+        "time": "20:00",
+        "location": "Théâtre Banque Nationale",
+        "name": "Luc Langevin",
+        "details_url": "http://diffusion.saguenay.ca/evenement/luc-langevin/",
+        "details": {
+            "price": "60,00",
+            "priceType": null,
+            "buyLink": "https://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=05000E&DateHeure=201811092000",
+            "name": "Luc Langevin",
+            "description": "Pour son deuxième spectacle, Luc Langevin amalgame encore plus intimement science et illusion afin d’émerveiller, d’étonner et d’émouvoir son public. À travers une série de nouveaux numéros, Luc raconte comment l’art de l’illusion lui a permis de vaincre sa timidité et, par conséquent, d’évoluer comme être humain. C’est avec finesse, humour et originalité que Luc enchaîne les illusions interactives, poétiques et à grand déploiement. Son spectacle est conçu sur mesure pour transporter le public dans un voyage incomparable où la magie raconte une histoire : comment certaines de \nnos « imperfections » influencent le tracé de notre vie."
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/jean-marc-parent-v3-350x300.jpg",
+        "date": "2018-12-06",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Jean-Marc Parent",
+        "details_url": "http://diffusion.saguenay.ca/evenement/jean-marc-parent-2/",
+        "details": {
+            "price": "57,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050001&DateHeure=201812062000",
+            "name": "Jean-Marc Parent",
+            "description": "Avec ses 30 ans de carrière en poche, Jean-Marc Parent est de retour avec un 11e one-man show : UTOPIE.\nAyant vendu plus de 300 000 billets lors de sa dernière tournée avec le spectacle Torture, l’humoriste revient sur scène avec une toute nouvelle mouture d’anecdotes et d’histoires hilarantes comme lui seul sait les conter.\nPour ce nouveau spectacle, Jean-Marc Parent nous emmène dans un univers utopique… que ce soit un monde où la vieillesse et la maladie n’existent pas, un monde de paix où le jugement et la mauvaise foi n’ont pas de place ou un gâteau au chocolat qui fait maigrir… À chacun sa vision!\nC’est dans une ambiance festive et à l’aide de son talent de conteur inimitable que Jean-Marc vous fera réaliser que nous nous créons tous de petites utopies quotidiennes! Quelle est la vôtre?"
+        }
+    },
+    {
+        "imgUrl": "http://diffusion.saguenay.ca/wp-content/uploads/2017/06/boucar-diouf-350x300.jpg",
+        "date": "2018-12-08",
+        "time": "20:00",
+        "location": "Théâtre du Palais municipal",
+        "name": "Boucar Diouf",
+        "details_url": "http://diffusion.saguenay.ca/evenement/boucar-diouf/",
+        "details": {
+            "price": "46,00",
+            "priceType": null,
+            "buyLink": "http://www.ovation.qc.ca/pesite.asp?CodeSiteClient=00000R&CodeSalle=050001&DateHeure=201812082000",
+            "name": "Boucar Diouf",
+            "description": "Magtogoek ou le chemin qui marche, c’est le nom que les Algonquins avaient donné au fleuve Saint-Laurent avant l’arrivée de Jacques Cartier. C’est aussi ce chemin qui a guidé les pas de Boucar jusqu’à Rimouski en 1991. Aujourd’hui, armé de son amour pour l’histoire et la biologie marine, il vient vous raconter en humour ce grand fleuve dont les eaux coulent désormais dans ses veines. Ce spectacle est une grande déclaration d’amour au fleuve Saint-Laurent. C’est un voyage historique sur un flot d’humour et de science."
+        }
+    }
+]
