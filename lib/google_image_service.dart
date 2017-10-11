@@ -2,20 +2,21 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-Future<String> getImageUrlFromGoogleApi() async {
+Future<String> getFirstImageUrlFromGoogleApi(String searchText) async {
   var url = _getGoogleApiUrl("015237388199217754610:yx9xdnmqab8",
-      "AIzaSyDlYwAP_P30J8NgtV-kfSj_TZtnJaLFKps");
-  url += _getImageQueryParameters("Julien Lacroix", imageSize: "large");
-
-  print(url);
+      "AIzaSyDRqG50Bhw2s-5qCxTLibIo-KwL-jUtvac");
+  url += _getImageQueryParameters(searchText, imageSize: "large");
 
   dynamic jsonResponse = await _executeGetRequest(url);
 
-  for (var item in jsonResponse["items"]) {
+  /*for (var item in jsonResponse["items"]) {
     print(item["link"]);
-  }
+  }*/
 
-  return jsonResponse["items"][0]["link"];
+  if (jsonResponse != null && jsonResponse["items"] != null)
+    return jsonResponse["items"][0]["link"];
+
+  return null;
 }
 
 String _getGoogleApiUrl(String customSearchEngineId, String apiKey) =>
