@@ -3,8 +3,11 @@
 
 import 'package:scraper_poc/event_scraper.dart' as event_scraper;
 import 'package:scraper_poc/artist_scraper.dart' as artist_scraper;
+import 'package:scraper_poc/google_image_service.dart';
 
 main(List<String> arguments) async {
-  await event_scraper.scrapeShows();
-  await artist_scraper.scrapeArtists();
+  //await event_scraper.scrapeShows();
+  //await artist_scraper.scrapeArtists();
+
+  getImageUrlFromGoogleApi();
 }
