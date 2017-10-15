@@ -1,17 +1,16 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
+import 'package:http/http.dart';
+
+var customSearchEngineId = Platform.environment['CUSTOM_SEARCH_ENGINE_ID'];
+var apiKey = Platform.environment['API_KEY'];
 
 Future<String> getFirstImageUrlFromGoogleApi(String searchText) async {
-  var url = _getGoogleApiUrl("015237388199217754610:yx9xdnmqab8",
-      "AIzaSyDRqG50Bhw2s-5qCxTLibIo-KwL-jUtvac");
+  var url = _getGoogleApiUrl();
   url += _getImageQueryParameters(searchText, imageSize: "large");
 
   dynamic jsonResponse = await _executeGetRequest(url);
-
-  /*for (var item in jsonResponse["items"]) {
-    print(item["link"]);
-  }*/
 
   if (jsonResponse != null && jsonResponse["items"] != null)
     return jsonResponse["items"][0]["link"];
@@ -19,7 +18,7 @@ Future<String> getFirstImageUrlFromGoogleApi(String searchText) async {
   return null;
 }
 
-String _getGoogleApiUrl(String customSearchEngineId, String apiKey) =>
+String _getGoogleApiUrl() =>
     "https://www.googleapis.com/customsearch/v1?key=$apiKey&cx=$customSearchEngineId";
 
 String _getImageQueryParameters(String searchText, {String imageSize}) {
@@ -32,21 +31,15 @@ String _getImageQueryParameters(String searchText, {String imageSize}) {
   return result;
 }
 
-Future<dynamic> _executeGetRequest(String url) async {
-  HttpClient client = new HttpClient();
+Future<Map<String, dynamic>> _executeGetRequest(String url) async {
+  var client = new Client();
 
   final uri = Uri.parse(url);
-  final request = await client.getUrl(uri);
-  final response = await request.close();
+  final response = await client.get(uri);
 
-  dynamic responseData;
-  final contents = await response.transform(UTF8.decoder).join();
-
-  if (response.headers.contentType.value == ContentType.JSON.value) {
-    responseData = JSON.decode(contents);
-  }
+  var data = JSON.decode(response.body);
 
   client.close();
 
-  return responseData;
+  return data;
 }
