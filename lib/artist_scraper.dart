@@ -4,6 +4,7 @@ import 'dart:io';
 
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
+import 'package:scraper_poc/google_image_service.dart';
 
 Duration throttleDuration = const Duration(milliseconds: 1);
 
@@ -60,12 +61,18 @@ Future<Null> scrapeArtists() async {
 
     for (var artistElement in artists) {
       var name = artistElement.querySelector('img').attributes['title'];
-      var imageUrl = artistElement.querySelector('img').attributes['src'];
       var pageUrl = artistElement.querySelector('a').attributes['href'];
+      var imageUrl = await getFirstImageUrlFromGoogleApi(name);
+
+      if (imageUrl == null) {
+        imageUrl = artistElement.querySelector('img').attributes['src'];
+      }
 
       if (!imageUrl.startsWith("http")) {
         imageUrl = "$artistsWebsite/$imageUrl";
       }
+
+      print(imageUrl);
 
       pageUrl = "$artistsWebsite/$pageUrl";
 
